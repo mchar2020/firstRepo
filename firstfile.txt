@@ -1,2 +1,4 @@
 Test file for my github tutorial
 Now I added a line
+
+Added a new line after the first branch
